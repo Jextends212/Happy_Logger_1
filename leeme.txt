@@ -1,0 +1,22 @@
+Este programa es un key_logger SOLO debe ser usado con fines educativos
+
+NO se promueve el uso de este programa para fines maliciosos, 
+
+El creador NO se responsabiliza por el uso del mismo.
+
+****************************************************************************************************************
+FUNCIONES:
+
+Registra todas las teclas del teclado en dos archivos.txt
+
+log.txt : TRANSCRIBE TODO EL TEXTO JUNTO CON LAS TECLAS PRESIONADAS, PUEDE SER DIFICIL DE LEER PERO ALLI ESTA TODALA INFO
+
+clean_text.txt : Transcribe el texto en limpio sin las teclas presionadas, no es case Sensitive y pueden faltar algunas letras o palabras pero es mas entendible...
+
+
+*****************************************************************************************************************
+
+Futuras Funciones:
+
+*REGISTRAR EL MOVIMIENTO Y ALMACENAR LA DATA EN UNA BD 
+*CREAR UNA INTERFAZ PARA LA APP
